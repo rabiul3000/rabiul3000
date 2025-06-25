@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Banner Image (Resized & Centered) -->
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/173906566?s=400&u=27ca4ac73a3e89acf6a9bd0f5d1a3059474d2cab&v=4" alt="Banner" width="100%" />
+<img src="https://avatars.githubusercontent.com/u/173906566?s=400&u=27ca4ac73a3e89acf6a9bd0f5d1a3059474d2cab&v=4" alt="Banner" width="70%" />
 </p>
 
 <!-- Name and Designation -->
