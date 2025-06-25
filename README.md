@@ -5,7 +5,7 @@
 </p>
 
 <!-- Name and Designation -->
-<h1 align="center">Hi, I'm Md. Rabiul Islam 👋</h1>
+<h1 align="center">Hi, I'm Md. Rabiul👋</h1>
 <h3 align="center">🚀 Junior Web Developer </h3>
 
 ---
